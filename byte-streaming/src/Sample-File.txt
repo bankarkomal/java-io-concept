@@ -1,0 +1,2 @@
+Welcome from sample file.
+I have any idea about java input and output.
